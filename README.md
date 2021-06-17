@@ -1,3 +1,5 @@
-# docs.calitp.org
+# cal-itp.github.io
 
-Cal-ITP documentation home
+GitHub Pages organization site serving as Cal-ITP documentation home.
+
+Published online at <https://docs.calitp.org>
