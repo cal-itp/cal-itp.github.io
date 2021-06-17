@@ -1,2 +1,3 @@
-# cal-itp.github.io
-Cal-ITP GitHub documentation home
+# docs.calitp.org
+
+Cal-ITP documentation home
