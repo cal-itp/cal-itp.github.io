@@ -16,3 +16,17 @@ With the custom domain configured here, all Cal-ITP GitHub Pages sites are autom
 
 * <https://docs.calitp.org/benefits>
 * <https://docs.calitp.org/data-infra>
+
+## Local development
+
+This repository includes a [`devcontainer`](https://code.visualstudio.com/docs/remote/containers) configuration.
+
+1. Open the repository in VS Code
+2. Bring up the command palette; enter `Remote-Containers:`
+3. Make a selection:
+    1. If the first time, or you want to start over, choose `Rebuild and Reopen in Container`
+    2. Otherwise, choose `Reopen in Container`
+4. Once the container is running, bring up the command palette; enter `Tasks:`
+5. Choose `Run Task`; select `Serve`
+6. Browse to <http://localhost4000> in a browser to see the site
+7. Edit files in VS Code and see the browser refresh with new content
