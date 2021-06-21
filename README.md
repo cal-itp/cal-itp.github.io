@@ -1,13 +1,12 @@
 # Cal-ITP Documentation
 
-GitHub Pages organization site serving as Cal-ITP documentation home.
-
 Published online at <https://docs.calitp.org>
 
 ## What is this site for?
 
-A GitHub Pages *organization site* is created in a repository named `org-name.github.io` and by default is served at that URL online.
-Like all GitHub Pages sites, organization sites can define a [`CNAME`](https://github.com/cal-itp/cal-itp.github.io/blob/main/CNAME) file to customize the domain.
+A GitHub Pages *organization site* is created in a repository named `org-name.github.io`. Like all GitHub Pages sites,
+organization sites can define a [`CNAME`](https://github.com/cal-itp/cal-itp.github.io/blob/main/CNAME) file to customize the
+domain.
 
 An organization site serves as the root of that organization's *project sites*, which are just the other repositories within the organization
 that have GitHub Pages enabled.
