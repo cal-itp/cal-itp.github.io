@@ -1,0 +1,35 @@
+name: Update repository data
+
+on:
+  workflow_dispatch:
+  schedule:
+      # UTC for approx 645am, 1245pm, 645pm Pacific
+    - cron: "45 13,19,1 * * *"
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  repo-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        id: checkout
+        uses: actions/checkout@v2
+
+      - name: Update local repository data
+        id: pipeline
+        run: ./bin/pipeline.sh repos
+
+      - name: Commit updated data
+        id: commit
+        with:
+          DATA_FILE: ${{ steps.pipeline.outputs.data_file }}
+        run: |
+          git config user.name "Cal-ITP Bot"
+          git config user.email "bot@calitp.org"
+          git add ${DATA_FILE}
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
