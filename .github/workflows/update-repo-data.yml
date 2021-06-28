@@ -31,5 +31,5 @@ jobs:
           git config user.email "bot@calitp.org"
           git add ${DATA_FILE}
           timestamp=$(date -u)
-          git commit -m "Latest data: ${timestamp}" || exit 0
+          git commit -m "chore(data): updated ${timestamp}" || exit 0
           git push
