@@ -24,7 +24,7 @@ jobs:
 
       - name: Commit updated data
         id: commit
-        with:
+        env:
           DATA_FILE: ${{ steps.pipeline.outputs.data_file }}
         run: |
           git config user.name "Cal-ITP Bot"
