@@ -5,3 +5,5 @@ pipeline=$1
 target=_data/$pipeline.json
 
 bin/$pipeline/get.sh | bin/$pipeline/filter.sh | bin/$pipeline/sort.sh > "$target"
+
+echo "::set-output name=data_file::$target"
