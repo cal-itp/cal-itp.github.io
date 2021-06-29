@@ -9,6 +9,7 @@
 }
 
 .repo {
+    position: relative;
     border: solid 2px $hr-border-color;
     border-radius: 0.3rem;
     padding: 2rem 1rem;
@@ -24,5 +25,21 @@
 
     @include small {
         width: 100%;
+    }
+
+    a {
+        font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+        font-size: 0.9rem;
+    }
+
+    .timestamp {
+        position: absolute;
+        bottom: 0.5rem;
+        right: 0.25rem;
+        padding: 0.25rem 0.5rem;
+
+        &, > code {
+            font-size: 0.75rem;
+        }
     }
 }

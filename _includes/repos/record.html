@@ -2,18 +2,39 @@
 {% if repo %}
 <div class="repo">
     <h3>{{ repo.name }}</h3>
-    <p><em>{{ repo.description }}</em></p>
-    <hr />
-    <p>GitHub: <a href="{{ repo.html_url }}"><code>cal-itp/{{ repo.name }}</code></a></p>
-
+    {% if repo.language %}
+    <small class="pill"><i class="fas fa-cog" aria-label="Cog icon"></i> {{ repo.language }}</small>
+    {% endif %}
+    {% if repo.license and repo.license.key != "other" %}
+    <small class="pill"><i class="fas fa-balance-scale" aria-label="Scale icon"></i> {{ repo.license.spdx_id }}</small>
+    {% endif %}
+    <p class="github">
+        <i class="fab fa-github-square" aria-label="GitHub icon"></i>
+        <a href="{{ repo.html_url }}">cal-itp/{{ repo.name }}</a>
+    </p>
     {% capture docs_site %}https://docs.calitp.org/{{ repo.name }}{% endcapture %}
     {% if repo.name != 'cal-itp.github.io' and repo.has_pages %}
-    <p>Docs: <a href="{{ docs_site }}">{{ docs_site }}</a></p>
+    <p class="docs">
+        <i class="fas fa-book" aria-label="Book icon"></i>
+        <a href="{{ docs_site }}">{{ docs_site }}</a>
+    </p>
     {% endif %}
 
     {% if repo.homepage and repo.homepage != "" and repo.homepage != docs_site %}
-    <p>Homepage: <a href="{{ repo.homepage }}">{{ repo.homepage }}</a></p>
+    <p class="homepage">
+        <i class="fas fa-globe" aria-label="Globe icon"></i>
+        <a href="{{ repo.homepage }}">{{ repo.homepage }}</a>
+    </p>
     {% endif %}
-    <span>{{ repo.pushed_at | date: "%Y-%m-%d %H:%M" }} UTC</span>
+
+    <hr />
+
+    <p><em>{{ repo.description }}</em></p>
+
+    <span class="timestamp">
+        Updated: <a href="{{ repo.html_url }}/commits/{{ repo.default_branch }}">
+            <code>{{ repo.pushed_at | date: "%Y-%m-%d %H:%M" }} UTC</code>
+        </a>
+    </span>
 </div>
 {% endif %}
