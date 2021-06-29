@@ -1,0 +1,5 @@
+<div class="repo-list">
+{% for repo in site.data.repos %}
+    {% include repos/record.html repo=repo %}
+{% endfor %}
+</div>

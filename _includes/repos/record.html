@@ -1,0 +1,19 @@
+{% assign repo = include.repo %}
+{% if repo %}
+<div class="repo">
+    <h3>{{ repo.name }}</h3>
+    <p><em>{{ repo.description }}</em></p>
+    <hr />
+    <p>GitHub: <a href="{{ repo.html_url }}"><code>cal-itp/{{ repo.name }}</code></a></p>
+
+    {% capture docs_site %}https://docs.calitp.org/{{ repo.name }}{% endcapture %}
+    {% if repo.name != 'cal-itp.github.io' and repo.has_pages %}
+    <p>Docs: <a href="{{ docs_site }}">{{ docs_site }}</a></p>
+    {% endif %}
+
+    {% if repo.homepage and repo.homepage != "" and repo.homepage != docs_site %}
+    <p>Homepage: <a href="{{ repo.homepage }}">{{ repo.homepage }}</a></p>
+    {% endif %}
+    <span>{{ repo.pushed_at | date: "%Y-%m-%d %H:%M" }} UTC</span>
+</div>
+{% endif %}

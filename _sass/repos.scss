@@ -1,0 +1,28 @@
+@import "variables";
+@import "mixins";
+
+.repo-list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+.repo {
+    border: solid 2px $hr-border-color;
+    border-radius: 0.3rem;
+    padding: 2rem 1rem;
+    margin-bottom: 1rem;
+
+    @include large {
+        width: 49%;
+    }
+
+    @include medium {
+        width: 100%;
+    }
+
+    @include small {
+        width: 100%;
+    }
+}

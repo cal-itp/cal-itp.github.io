@@ -1,0 +1,14 @@
+---
+layout: default
+title: Cal-ITP Documentation
+---
+
+<h2>Repositories</h2>
+
+{% include repos/index.html %}
+
+{% capture readme %}
+{% include_relative README.md %}
+{% endcapture %}
+
+{{ readme | markdownify }}
