@@ -2,7 +2,7 @@
 
 Published online at <https://docs.calitp.org>
 
-## What is this site for?
+## What is this repository for?
 
 This is a GitHub Pages *organization site*, created in a repository named with the pattern `org-name.github.io`.
 For Cal-ITP, that is [`cal-itp.github.io`](https://github.com/cal-itp/cal-itp.github.io).
