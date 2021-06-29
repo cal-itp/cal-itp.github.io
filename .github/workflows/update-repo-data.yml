@@ -3,8 +3,8 @@ name: Update repository data
 on:
   workflow_dispatch:
   schedule:
-      # UTC for approx 645am, 1245pm, 645pm Pacific
-    - cron: "45 13,19,1 * * *"
+      # every 42 minutes during the day in CA
+    - cron: "*/42 0-5,12-23 * * *"
 
 defaults:
   run:
