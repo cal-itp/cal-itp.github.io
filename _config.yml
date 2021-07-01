@@ -1,5 +1,3 @@
-description: Cal-ITP's home for technical documentation
-
 github:
   is_project_page: true
 
@@ -9,8 +7,6 @@ locale: en
 
 plugins:
   - jekyll-seo-tag
-
-tagline: Cal-ITP's home for technical documentation
 
 theme:
   color: "#157878"
