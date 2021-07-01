@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
       # every 42 minutes during the day in CA
-    - cron: "*/42 0-5,12-23 * * *"
+    - cron: "*/42 0-3,12-23 * * *"
 
 defaults:
   run:
