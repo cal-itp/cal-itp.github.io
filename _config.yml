@@ -1,5 +1,18 @@
-title: docs.calitp.org
-tagline: Cal-ITP's home for technical documentation
-locale: en
-theme: jekyll-theme-cayman
+description: Cal-ITP's home for technical documentation
+
+github:
+  is_project_page: true
+
 google_analytics: G-SZB618VNBZ
+
+locale: en
+
+plugins:
+  - jekyll-seo-tag
+
+tagline: Cal-ITP's home for technical documentation
+
+theme:
+  color: "#157878"
+
+title: docs.calitp.org

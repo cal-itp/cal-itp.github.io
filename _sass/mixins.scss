@@ -1,0 +1,27 @@
+@import "variables";
+
+@mixin large {
+  @media screen and (min-width: #{$large-breakpoint}) {
+    @content;
+  }
+}
+
+@mixin medium {
+  @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
+    @content;
+  }
+}
+
+@mixin small {
+  @media screen and (max-width: #{$medium-breakpoint}) {
+    @content;
+  }
+}
+
+.pill {
+  background-color: #5e5e5e;
+  border-radius: 0.4rem;
+  color: #eee;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.5rem;
+}
