@@ -1,5 +1,6 @@
 <div class="repo-list">
-{% for repo in site.data.repos %}
+{% assign repos = site.data.repos | sort: "updated_at" | reverse %}
+{% for repo in repos %}
     {% include repos/record.html repo=repo %}
 {% endfor %}
 </div>
