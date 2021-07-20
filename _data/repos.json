@@ -710,7 +710,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "license": {
       "key": "gpl-3.0",
       "name": "GNU General Public License v3.0",
@@ -719,7 +719,7 @@
       "node_id": "MDc6TGljZW5zZTk="
     },
     "forks": 0,
-    "open_issues": 25,
+    "open_issues": 26,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
