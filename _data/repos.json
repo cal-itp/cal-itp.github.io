@@ -487,7 +487,7 @@
     "clone_url": "https://github.com/cal-itp/gtfs-rt-api.git",
     "svn_url": "https://github.com/cal-itp/gtfs-rt-api",
     "homepage": null,
-    "size": 0,
+    "size": 10,
     "stargazers_count": 0,
     "watchers_count": 0,
     "language": "Python",
