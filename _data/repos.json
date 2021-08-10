@@ -100,7 +100,9 @@
     "default_branch": "dev",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -205,7 +207,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -304,7 +308,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -382,7 +388,7 @@
     "clone_url": "https://github.com/cal-itp/data-infra.git",
     "svn_url": "https://github.com/cal-itp/data-infra",
     "homepage": "https://docs.calitp.org/data-infra",
-    "size": 1160,
+    "size": 1161,
     "stargazers_count": 5,
     "watchers_count": 5,
     "language": "Python",
@@ -409,7 +415,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -514,7 +522,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -619,7 +629,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -724,7 +736,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -829,7 +843,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -934,7 +950,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -1039,7 +1057,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -1144,7 +1164,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -1249,7 +1271,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -1354,7 +1378,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -1459,7 +1485,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -1564,7 +1592,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -1669,7 +1699,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   },
@@ -1774,7 +1806,9 @@
     "default_branch": "main",
     "permissions": {
       "admin": false,
+      "maintain": false,
       "push": false,
+      "triage": false,
       "pull": true
     }
   }
