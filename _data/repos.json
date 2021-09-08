@@ -596,7 +596,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/gtfs-rt-api/deployments",
     "created_at": "2021-07-21T12:56:27Z",
     "updated_at": "2021-08-24T20:36:54Z",
-    "pushed_at": "2021-08-23T20:58:05Z",
+    "pushed_at": "2021-09-08T03:33:16Z",
     "git_url": "git://github.com/cal-itp/gtfs-rt-api.git",
     "ssh_url": "git@github.com:cal-itp/gtfs-rt-api.git",
     "clone_url": "https://github.com/cal-itp/gtfs-rt-api.git",
@@ -615,7 +615,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -624,7 +624,7 @@
       "node_id": "MDc6TGljZW5zZTI="
     },
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
@@ -1345,7 +1345,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/reports/deployments",
     "created_at": "2021-05-25T20:28:12Z",
     "updated_at": "2021-08-24T20:32:43Z",
-    "pushed_at": "2021-08-23T20:57:33Z",
+    "pushed_at": "2021-09-08T03:27:23Z",
     "git_url": "git://github.com/cal-itp/reports.git",
     "ssh_url": "git@github.com:cal-itp/reports.git",
     "clone_url": "https://github.com/cal-itp/reports.git",
