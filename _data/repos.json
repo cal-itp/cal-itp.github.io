@@ -66,8 +66,8 @@
     "releases_url": "https://api.github.com/repos/cal-itp/benefits/releases{/id}",
     "deployments_url": "https://api.github.com/repos/cal-itp/benefits/deployments",
     "created_at": "2020-08-06T07:17:24Z",
-    "updated_at": "2021-09-08T18:01:05Z",
-    "pushed_at": "2021-09-08T20:29:27Z",
+    "updated_at": "2021-09-08T23:57:44Z",
+    "pushed_at": "2021-09-08T23:58:19Z",
     "git_url": "git://github.com/cal-itp/benefits.git",
     "ssh_url": "git@github.com:cal-itp/benefits.git",
     "clone_url": "https://github.com/cal-itp/benefits.git",
@@ -86,7 +86,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 4,
+    "open_issues_count": 3,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -95,7 +95,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "forks": 4,
-    "open_issues": 4,
+    "open_issues": 3,
     "watchers": 3,
     "default_branch": "dev",
     "permissions": {
@@ -916,8 +916,8 @@
     "releases_url": "https://api.github.com/repos/cal-itp/mobility-marketplace/releases{/id}",
     "deployments_url": "https://api.github.com/repos/cal-itp/mobility-marketplace/deployments",
     "created_at": "2020-08-18T06:32:01Z",
-    "updated_at": "2021-08-17T06:43:05Z",
-    "pushed_at": "2021-09-07T20:17:14Z",
+    "updated_at": "2021-09-09T00:02:04Z",
+    "pushed_at": "2021-09-09T00:02:00Z",
     "git_url": "git://github.com/cal-itp/mobility-marketplace.git",
     "ssh_url": "git@github.com:cal-itp/mobility-marketplace.git",
     "clone_url": "https://github.com/cal-itp/mobility-marketplace.git",
@@ -936,7 +936,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 14,
+    "open_issues_count": 13,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -945,7 +945,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "forks": 0,
-    "open_issues": 14,
+    "open_issues": 13,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
