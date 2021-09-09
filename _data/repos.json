@@ -67,7 +67,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/benefits/deployments",
     "created_at": "2020-08-06T07:17:24Z",
     "updated_at": "2021-09-09T10:51:11Z",
-    "pushed_at": "2021-09-08T23:58:19Z",
+    "pushed_at": "2021-09-09T17:30:27Z",
     "git_url": "git://github.com/cal-itp/benefits.git",
     "ssh_url": "git@github.com:cal-itp/benefits.git",
     "clone_url": "https://github.com/cal-itp/benefits.git",
@@ -86,7 +86,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -95,7 +95,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "forks": 4,
-    "open_issues": 3,
+    "open_issues": 4,
     "watchers": 4,
     "default_branch": "dev",
     "permissions": {
@@ -381,14 +381,14 @@
     "releases_url": "https://api.github.com/repos/cal-itp/data-infra/releases{/id}",
     "deployments_url": "https://api.github.com/repos/cal-itp/data-infra/deployments",
     "created_at": "2020-11-16T18:35:24Z",
-    "updated_at": "2021-09-09T16:32:12Z",
-    "pushed_at": "2021-09-09T16:51:45Z",
+    "updated_at": "2021-09-09T17:07:25Z",
+    "pushed_at": "2021-09-09T17:07:22Z",
     "git_url": "git://github.com/cal-itp/data-infra.git",
     "ssh_url": "git@github.com:cal-itp/data-infra.git",
     "clone_url": "https://github.com/cal-itp/data-infra.git",
     "svn_url": "https://github.com/cal-itp/data-infra",
     "homepage": "https://docs.calitp.org/data-infra",
-    "size": 2025,
+    "size": 2033,
     "stargazers_count": 7,
     "watchers_count": 7,
     "language": "Python",
@@ -401,7 +401,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 90,
+    "open_issues_count": 89,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -410,7 +410,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "forks": 4,
-    "open_issues": 90,
+    "open_issues": 89,
     "watchers": 7,
     "default_branch": "main",
     "permissions": {
