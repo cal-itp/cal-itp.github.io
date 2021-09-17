@@ -4,17 +4,13 @@ Published online at <https://docs.calitp.org>
 
 ## What is this repository for?
 
-This is a GitHub Pages *organization site*, created in a repository named with the pattern `org-name.github.io`.
-For Cal-ITP, that is [`cal-itp.github.io`](https://github.com/cal-itp/cal-itp.github.io).
+This is Cal-ITP's [GitHub Pages organization repository](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites), served under a custom domain using a
+[CNAME](https://github.com/cal-itp/cal-itp.github.io/blob/main/CNAME) file.
 
-Like all GitHub Pages sites, organization sites can define a
-[`CNAME`](https://github.com/cal-itp/cal-itp.github.io/blob/main/CNAME) file to customize the domain.
+This site is the root of Cal-ITP's GitHub Pages project sites - the repositories that have GitHub Pages enabled.
+These sites are automatically available at `https://docs.calitp.org/repo-name`.
 
-An organization site serves as the root of that organization's *project sites*, which are just the other repositories within
-the organization that have GitHub Pages enabled.
-
-With the custom domain configured here, all Cal-ITP GitHub Pages sites are automatically available at
-**https://docs.calitp.org/repo-name**.
+To create a simple Markdown-based documentation site, see our instructions at <https://docs.calitp.org/mkdocs-template>.
 
 ## Local development
 
