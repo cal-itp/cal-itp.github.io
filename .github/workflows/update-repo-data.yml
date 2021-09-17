@@ -20,7 +20,7 @@ jobs:
 
       - name: Update local repository data
         id: pipeline
-        run: ./bin/pipeline.sh repos
+        run: ./.github/bin/repos/pipeline.sh
 
       - name: Commit updated data
         id: commit
