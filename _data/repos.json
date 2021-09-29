@@ -620,11 +620,11 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "license": null,
     "allow_forking": true,
     "forks": 0,
-    "open_issues": 6,
+    "open_issues": 7,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
