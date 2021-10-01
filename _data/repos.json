@@ -73,7 +73,7 @@
     "clone_url": "https://github.com/cal-itp/benefits.git",
     "svn_url": "https://github.com/cal-itp/benefits",
     "homepage": "https://docs.calitp.org/benefits",
-    "size": 2252,
+    "size": 2253,
     "stargazers_count": 4,
     "watchers_count": 4,
     "language": "Python",
@@ -95,6 +95,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 5,
     "open_issues": 7,
     "watchers": 4,
@@ -203,6 +204,7 @@
       "node_id": "MDc6TGljZW5zZTk="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 0,
     "open_issues": 4,
     "watchers": 0,
@@ -305,6 +307,7 @@
     "open_issues_count": 1,
     "license": null,
     "allow_forking": true,
+    "visibility": "public",
     "forks": 1,
     "open_issues": 1,
     "watchers": 0,
@@ -391,7 +394,7 @@
     "clone_url": "https://github.com/cal-itp/data-infra.git",
     "svn_url": "https://github.com/cal-itp/data-infra",
     "homepage": "https://docs.calitp.org/data-infra",
-    "size": 2638,
+    "size": 2643,
     "stargazers_count": 7,
     "watchers_count": 7,
     "language": "Python",
@@ -413,6 +416,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 4,
     "open_issues": 104,
     "watchers": 7,
@@ -521,6 +525,7 @@
       "node_id": "MDc6TGljZW5zZTI="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 0,
     "open_issues": 10,
     "watchers": 1,
@@ -623,6 +628,7 @@
     "open_issues_count": 8,
     "license": null,
     "allow_forking": true,
+    "visibility": "public",
     "forks": 0,
     "open_issues": 8,
     "watchers": 0,
@@ -731,6 +737,7 @@
       "node_id": "MDc6TGljZW5zZTI="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 0,
     "open_issues": 2,
     "watchers": 0,
@@ -839,6 +846,7 @@
       "node_id": "MDc6TGljZW5zZTI="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
@@ -947,6 +955,7 @@
       "node_id": "MDc6TGljZW5zZTI="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 1,
     "open_issues": 2,
     "watchers": 1,
@@ -1055,6 +1064,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 0,
     "open_issues": 13,
     "watchers": 0,
@@ -1163,6 +1173,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 1,
     "open_issues": 5,
     "watchers": 1,
@@ -1271,6 +1282,7 @@
       "node_id": "MDc6TGljZW5zZTI="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 1,
     "open_issues": 0,
     "watchers": 2,
@@ -1379,6 +1391,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 1,
     "open_issues": 0,
     "watchers": 0,
@@ -1487,6 +1500,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 0,
     "open_issues": 9,
     "watchers": 1,
@@ -1595,6 +1609,7 @@
       "node_id": "MDc6TGljZW5zZTI="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
@@ -1703,6 +1718,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 0,
     "open_issues": 0,
     "watchers": 1,
@@ -1811,6 +1827,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 0,
     "open_issues": 5,
     "watchers": 0,
@@ -1919,6 +1936,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 0,
     "open_issues": 1,
     "watchers": 0,
@@ -2027,6 +2045,7 @@
       "node_id": "MDc6TGljZW5zZTA="
     },
     "allow_forking": true,
+    "visibility": "public",
     "forks": 1,
     "open_issues": 4,
     "watchers": 0,
