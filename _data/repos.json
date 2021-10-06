@@ -95,6 +95,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 5,
     "open_issues": 8,
@@ -204,6 +205,7 @@
       "node_id": "MDc6TGljZW5zZTk="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 0,
     "open_issues": 6,
@@ -307,6 +309,7 @@
     "open_issues_count": 1,
     "license": null,
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 1,
     "open_issues": 1,
@@ -416,6 +419,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 4,
     "open_issues": 112,
@@ -525,6 +529,7 @@
       "node_id": "MDc6TGljZW5zZTI="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 0,
     "open_issues": 10,
@@ -612,7 +617,7 @@
     "clone_url": "https://github.com/cal-itp/eligibility-server.git",
     "svn_url": "https://github.com/cal-itp/eligibility-server",
     "homepage": "https://docs.calitp.org/benefits/eligibility-verification/",
-    "size": 61,
+    "size": 74,
     "stargazers_count": 0,
     "watchers_count": 0,
     "language": "Python",
@@ -628,6 +633,7 @@
     "open_issues_count": 7,
     "license": null,
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 1,
     "open_issues": 7,
@@ -737,6 +743,7 @@
       "node_id": "MDc6TGljZW5zZTI="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 0,
     "open_issues": 2,
@@ -846,6 +853,7 @@
       "node_id": "MDc6TGljZW5zZTI="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 0,
     "open_issues": 0,
@@ -955,6 +963,7 @@
       "node_id": "MDc6TGljZW5zZTI="
     },
     "allow_forking": true,
+    "is_template": true,
     "visibility": "public",
     "forks": 1,
     "open_issues": 2,
@@ -1064,6 +1073,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 0,
     "open_issues": 13,
@@ -1173,6 +1183,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 1,
     "open_issues": 5,
@@ -1282,6 +1293,7 @@
       "node_id": "MDc6TGljZW5zZTI="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 1,
     "open_issues": 0,
@@ -1391,6 +1403,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 1,
     "open_issues": 0,
@@ -1500,6 +1513,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 0,
     "open_issues": 10,
@@ -1609,6 +1623,7 @@
       "node_id": "MDc6TGljZW5zZTI="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 0,
     "open_issues": 0,
@@ -1718,6 +1733,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 0,
     "open_issues": 0,
@@ -1827,6 +1843,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 0,
     "open_issues": 5,
@@ -1936,6 +1953,7 @@
       "node_id": "MDc6TGljZW5zZTE="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 0,
     "open_issues": 1,
@@ -2045,6 +2063,7 @@
       "node_id": "MDc6TGljZW5zZTA="
     },
     "allow_forking": true,
+    "is_template": false,
     "visibility": "public",
     "forks": 1,
     "open_issues": 4,
