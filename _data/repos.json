@@ -516,11 +516,11 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 7,
+    "forks_count": 8,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 164,
+    "open_issues_count": 165,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -539,8 +539,8 @@
       "python"
     ],
     "visibility": "public",
-    "forks": 7,
-    "open_issues": 164,
+    "forks": 8,
+    "open_issues": 165,
     "watchers": 8,
     "default_branch": "main",
     "permissions": {
