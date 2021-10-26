@@ -500,8 +500,8 @@
     "releases_url": "https://api.github.com/repos/cal-itp/data-infra/releases{/id}",
     "deployments_url": "https://api.github.com/repos/cal-itp/data-infra/deployments",
     "created_at": "2020-11-16T18:35:24Z",
-    "updated_at": "2021-10-26T01:13:01Z",
-    "pushed_at": "2021-10-26T14:53:53Z",
+    "updated_at": "2021-10-26T16:17:06Z",
+    "pushed_at": "2021-10-26T17:01:15Z",
     "git_url": "git://github.com/cal-itp/data-infra.git",
     "ssh_url": "git@github.com:cal-itp/data-infra.git",
     "clone_url": "https://github.com/cal-itp/data-infra.git",
@@ -520,7 +520,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 183,
+    "open_issues_count": 185,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -540,7 +540,7 @@
     ],
     "visibility": "public",
     "forks": 8,
-    "open_issues": 183,
+    "open_issues": 185,
     "watchers": 8,
     "default_branch": "main",
     "permissions": {
