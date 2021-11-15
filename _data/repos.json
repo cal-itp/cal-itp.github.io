@@ -402,7 +402,7 @@
     "clone_url": "https://github.com/cal-itp/data-analyses.git",
     "svn_url": "https://github.com/cal-itp/data-analyses",
     "homepage": null,
-    "size": 257708,
+    "size": 272785,
     "stargazers_count": 0,
     "watchers_count": 0,
     "language": "HTML",
@@ -749,7 +749,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -762,7 +762,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
