@@ -171,8 +171,8 @@
     "releases_url": "https://api.github.com/repos/cal-itp/benefits/releases{/id}",
     "deployments_url": "https://api.github.com/repos/cal-itp/benefits/deployments",
     "created_at": "2020-08-06T07:17:24Z",
-    "updated_at": "2021-12-06T21:58:59Z",
-    "pushed_at": "2021-12-07T17:46:44Z",
+    "updated_at": "2021-12-07T17:51:54Z",
+    "pushed_at": "2021-12-07T17:51:56Z",
     "git_url": "git://github.com/cal-itp/benefits.git",
     "ssh_url": "git@github.com:cal-itp/benefits.git",
     "clone_url": "https://github.com/cal-itp/benefits.git",
@@ -191,7 +191,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 21,
+    "open_issues_count": 20,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -206,7 +206,7 @@
     ],
     "visibility": "public",
     "forks": 6,
-    "open_issues": 21,
+    "open_issues": 20,
     "watchers": 5,
     "default_branch": "dev",
     "permissions": {
