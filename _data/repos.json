@@ -520,7 +520,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 250,
+    "open_issues_count": 249,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -540,7 +540,7 @@
     ],
     "visibility": "public",
     "forks": 8,
-    "open_issues": 250,
+    "open_issues": 249,
     "watchers": 10,
     "default_branch": "main",
     "permissions": {
@@ -2074,7 +2074,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/reports/deployments",
     "created_at": "2021-05-25T20:28:12Z",
     "updated_at": "2021-12-30T22:26:05Z",
-    "pushed_at": "2022-01-24T14:59:13Z",
+    "pushed_at": "2022-01-25T21:18:19Z",
     "git_url": "git://github.com/cal-itp/reports.git",
     "ssh_url": "git@github.com:cal-itp/reports.git",
     "clone_url": "https://github.com/cal-itp/reports.git",
