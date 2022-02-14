@@ -520,7 +520,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 248,
+    "open_issues_count": 247,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -540,7 +540,7 @@
     ],
     "visibility": "public",
     "forks": 8,
-    "open_issues": 248,
+    "open_issues": 247,
     "watchers": 10,
     "default_branch": "main",
     "permissions": {
@@ -1279,7 +1279,7 @@
     "clone_url": "https://github.com/cal-itp/gtfs-rt-validator-api.git",
     "svn_url": "https://github.com/cal-itp/gtfs-rt-validator-api",
     "homepage": null,
-    "size": 1866,
+    "size": 1873,
     "stargazers_count": 0,
     "watchers_count": 0,
     "language": "Python",
