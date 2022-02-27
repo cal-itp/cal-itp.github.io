@@ -516,7 +516,7 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 8,
+    "forks_count": 9,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -539,7 +539,7 @@
       "python"
     ],
     "visibility": "public",
-    "forks": 8,
+    "forks": 9,
     "open_issues": 262,
     "watchers": 10,
     "default_branch": "main",
