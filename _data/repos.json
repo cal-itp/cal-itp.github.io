@@ -178,7 +178,7 @@
     "clone_url": "https://github.com/cal-itp/benefits.git",
     "svn_url": "https://github.com/cal-itp/benefits",
     "homepage": "https://docs.calitp.org/benefits",
-    "size": 2756,
+    "size": 2759,
     "stargazers_count": 5,
     "watchers_count": 5,
     "language": "Python",
@@ -520,7 +520,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 290,
+    "open_issues_count": 292,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -540,7 +540,7 @@
     ],
     "visibility": "public",
     "forks": 10,
-    "open_issues": 290,
+    "open_issues": 292,
     "watchers": 11,
     "default_branch": "main",
     "permissions": {
