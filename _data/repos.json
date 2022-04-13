@@ -191,7 +191,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 62,
+    "open_issues_count": 63,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -206,7 +206,7 @@
     ],
     "visibility": "public",
     "forks": 7,
-    "open_issues": 62,
+    "open_issues": 63,
     "watchers": 5,
     "default_branch": "dev",
     "permissions": {
@@ -507,7 +507,7 @@
     "clone_url": "https://github.com/cal-itp/data-infra.git",
     "svn_url": "https://github.com/cal-itp/data-infra",
     "homepage": "https://docs.calitp.org/data-infra",
-    "size": 11485,
+    "size": 11486,
     "stargazers_count": 11,
     "watchers_count": 11,
     "language": "Python",
@@ -520,7 +520,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 283,
+    "open_issues_count": 284,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -540,7 +540,7 @@
     ],
     "visibility": "public",
     "forks": 10,
-    "open_issues": 283,
+    "open_issues": 284,
     "watchers": 11,
     "default_branch": "main",
     "permissions": {
@@ -1390,7 +1390,7 @@
     "clone_url": "https://github.com/cal-itp/gtfs-validator-api.git",
     "svn_url": "https://github.com/cal-itp/gtfs-validator-api",
     "homepage": null,
-    "size": 138,
+    "size": 140,
     "stargazers_count": 1,
     "watchers_count": 1,
     "language": "Python",
