@@ -736,7 +736,7 @@
     "clone_url": "https://github.com/cal-itp/eligibility-api.git",
     "svn_url": "https://github.com/cal-itp/eligibility-api",
     "homepage": "https://docs.calitp.org/eligibility-api",
-    "size": 424,
+    "size": 425,
     "stargazers_count": 1,
     "watchers_count": 1,
     "language": "Python",
