@@ -172,7 +172,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/benefits/deployments",
     "created_at": "2020-08-06T07:17:24Z",
     "updated_at": "2022-06-08T22:55:11Z",
-    "pushed_at": "2022-06-09T01:38:18Z",
+    "pushed_at": "2022-06-09T16:58:24Z",
     "git_url": "git://github.com/cal-itp/benefits.git",
     "ssh_url": "git@github.com:cal-itp/benefits.git",
     "clone_url": "https://github.com/cal-itp/benefits.git",
@@ -191,7 +191,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 74,
+    "open_issues_count": 73,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -206,7 +206,7 @@
     ],
     "visibility": "public",
     "forks": 7,
-    "open_issues": 74,
+    "open_issues": 73,
     "watchers": 8,
     "default_branch": "dev",
     "permissions": {
@@ -395,7 +395,7 @@
     "releases_url": "https://api.github.com/repos/cal-itp/calitp.org/releases{/id}",
     "deployments_url": "https://api.github.com/repos/cal-itp/calitp.org/deployments",
     "created_at": "2020-12-15T00:53:19Z",
-    "updated_at": "2022-06-08T16:06:31Z",
+    "updated_at": "2022-06-09T16:36:41Z",
     "pushed_at": "2022-06-07T17:27:18Z",
     "git_url": "git://github.com/cal-itp/calitp.org.git",
     "ssh_url": "git@github.com:cal-itp/calitp.org.git",
@@ -415,7 +415,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -437,7 +437,7 @@
     ],
     "visibility": "public",
     "forks": 1,
-    "open_issues": 3,
+    "open_issues": 4,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
@@ -1975,7 +1975,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -1998,7 +1998,7 @@
     ],
     "visibility": "public",
     "forks": 0,
-    "open_issues": 7,
+    "open_issues": 8,
     "watchers": 1,
     "default_branch": "main",
     "permissions": {
