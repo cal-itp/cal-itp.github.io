@@ -1072,7 +1072,7 @@
     "clone_url": "https://github.com/cal-itp/graas.git",
     "svn_url": "https://github.com/cal-itp/graas",
     "homepage": null,
-    "size": 63212,
+    "size": 63215,
     "stargazers_count": 7,
     "watchers_count": 7,
     "language": "Java",
@@ -2318,7 +2318,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 24,
+    "open_issues_count": 23,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -2334,7 +2334,7 @@
     ],
     "visibility": "public",
     "forks": 0,
-    "open_issues": 24,
+    "open_issues": 23,
     "watchers": 4,
     "default_branch": "main",
     "permissions": {
