@@ -306,7 +306,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "license": {
       "key": "gpl-3.0",
       "name": "GNU General Public License v3.0",
@@ -320,7 +320,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 4,
     "watchers": 0,
     "default_branch": "main",
     "permissions": {
@@ -632,7 +632,7 @@
     "clone_url": "https://github.com/cal-itp/data-analyses.git",
     "svn_url": "https://github.com/cal-itp/data-analyses",
     "homepage": "https://analysis.calitp.org",
-    "size": 1019656,
+    "size": 1019686,
     "stargazers_count": 8,
     "watchers_count": 8,
     "language": "HTML",
