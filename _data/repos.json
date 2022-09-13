@@ -2325,7 +2325,7 @@
     "clone_url": "https://github.com/cal-itp/reports.git",
     "svn_url": "https://github.com/cal-itp/reports",
     "homepage": "https://reports.calitp.org",
-    "size": 490405,
+    "size": 490407,
     "stargazers_count": 4,
     "watchers_count": 4,
     "language": "Jupyter Notebook",
