@@ -173,7 +173,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/benefits/deployments",
     "created_at": "2020-08-06T07:17:24Z",
     "updated_at": "2022-09-26T16:04:43Z",
-    "pushed_at": "2022-10-13T02:10:10Z",
+    "pushed_at": "2022-10-13T16:43:21Z",
     "git_url": "git://github.com/cal-itp/benefits.git",
     "ssh_url": "git@github.com:cal-itp/benefits.git",
     "clone_url": "https://github.com/cal-itp/benefits.git",
@@ -192,7 +192,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 106,
+    "open_issues_count": 103,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -208,7 +208,7 @@
     ],
     "visibility": "public",
     "forks": 8,
-    "open_issues": 106,
+    "open_issues": 103,
     "watchers": 10,
     "default_branch": "dev",
     "permissions": {
@@ -738,7 +738,7 @@
     "clone_url": "https://github.com/cal-itp/data-infra.git",
     "svn_url": "https://github.com/cal-itp/data-infra",
     "homepage": "https://docs.calitp.org/data-infra",
-    "size": 45281,
+    "size": 45279,
     "stargazers_count": 16,
     "watchers_count": 16,
     "language": "Python",
@@ -1992,7 +1992,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 24,
+    "open_issues_count": 25,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -2016,7 +2016,7 @@
     ],
     "visibility": "public",
     "forks": 0,
-    "open_issues": 24,
+    "open_issues": 25,
     "watchers": 1,
     "default_branch": "main",
     "permissions": {
