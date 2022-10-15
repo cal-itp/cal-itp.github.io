@@ -1181,7 +1181,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/graas/deployments",
     "created_at": "2021-12-17T21:55:36Z",
     "updated_at": "2022-02-11T17:59:47Z",
-    "pushed_at": "2022-10-15T00:12:08Z",
+    "pushed_at": "2022-10-15T00:20:33Z",
     "git_url": "git://github.com/cal-itp/graas.git",
     "ssh_url": "git@github.com:cal-itp/graas.git",
     "clone_url": "https://github.com/cal-itp/graas.git",
@@ -1200,7 +1200,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 34,
+    "open_issues_count": 35,
     "license": {
       "key": "gpl-3.0",
       "name": "GNU General Public License v3.0",
@@ -1214,7 +1214,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 0,
-    "open_issues": 34,
+    "open_issues": 35,
     "watchers": 7,
     "default_branch": "main",
     "permissions": {
