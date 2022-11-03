@@ -399,7 +399,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/calitp.org/deployments",
     "created_at": "2020-12-15T00:53:19Z",
     "updated_at": "2022-07-06T19:07:19Z",
-    "pushed_at": "2022-11-02T19:09:10Z",
+    "pushed_at": "2022-11-03T15:00:42Z",
     "git_url": "git://github.com/cal-itp/calitp.org.git",
     "ssh_url": "git@github.com:cal-itp/calitp.org.git",
     "clone_url": "https://github.com/cal-itp/calitp.org.git",
@@ -418,7 +418,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 5,
+    "open_issues_count": 2,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -441,7 +441,7 @@
     ],
     "visibility": "public",
     "forks": 2,
-    "open_issues": 5,
+    "open_issues": 2,
     "watchers": 1,
     "default_branch": "main",
     "permissions": {
@@ -1973,7 +1973,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/mobility-marketplace/deployments",
     "created_at": "2020-08-18T06:32:01Z",
     "updated_at": "2022-08-10T22:49:39Z",
-    "pushed_at": "2022-11-02T19:16:07Z",
+    "pushed_at": "2022-11-03T15:00:56Z",
     "git_url": "git://github.com/cal-itp/mobility-marketplace.git",
     "ssh_url": "git@github.com:cal-itp/mobility-marketplace.git",
     "clone_url": "https://github.com/cal-itp/mobility-marketplace.git",
@@ -1992,7 +1992,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 20,
+    "open_issues_count": 18,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -2016,7 +2016,7 @@
     ],
     "visibility": "public",
     "forks": 0,
-    "open_issues": 20,
+    "open_issues": 18,
     "watchers": 1,
     "default_branch": "main",
     "permissions": {
