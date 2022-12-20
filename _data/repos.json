@@ -758,7 +758,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 287,
+    "open_issues_count": 288,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -779,7 +779,7 @@
     ],
     "visibility": "public",
     "forks": 10,
-    "open_issues": 287,
+    "open_issues": 288,
     "watchers": 18,
     "default_branch": "main",
     "permissions": {
@@ -2002,7 +2002,7 @@
     "clone_url": "https://github.com/cal-itp/mobility-marketplace.git",
     "svn_url": "https://github.com/cal-itp/mobility-marketplace",
     "homepage": "https://www.camobilitymarketplace.org/",
-    "size": 11444,
+    "size": 11454,
     "stargazers_count": 1,
     "watchers_count": 1,
     "language": "HTML",
