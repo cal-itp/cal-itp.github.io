@@ -758,7 +758,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 246,
+    "open_issues_count": 247,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -779,7 +779,7 @@
     ],
     "visibility": "public",
     "forks": 10,
-    "open_issues": 246,
+    "open_issues": 247,
     "watchers": 22,
     "default_branch": "main",
     "permissions": {
@@ -2351,7 +2351,7 @@
     "clone_url": "https://github.com/cal-itp/reports.git",
     "svn_url": "https://github.com/cal-itp/reports",
     "homepage": "https://reports.calitp.org",
-    "size": 490785,
+    "size": 490791,
     "stargazers_count": 6,
     "watchers_count": 6,
     "language": "Jinja",
