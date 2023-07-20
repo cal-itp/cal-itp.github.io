@@ -738,7 +738,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/data-infra/deployments",
     "created_at": "2020-11-16T18:35:24Z",
     "updated_at": "2023-07-10T22:26:02Z",
-    "pushed_at": "2023-07-20T14:57:19Z",
+    "pushed_at": "2023-07-20T15:37:42Z",
     "git_url": "git://github.com/cal-itp/data-infra.git",
     "ssh_url": "git@github.com:cal-itp/data-infra.git",
     "clone_url": "https://github.com/cal-itp/data-infra.git",
@@ -758,7 +758,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 264,
+    "open_issues_count": 265,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -779,7 +779,7 @@
     ],
     "visibility": "public",
     "forks": 10,
-    "open_issues": 264,
+    "open_issues": 265,
     "watchers": 25,
     "default_branch": "main",
     "permissions": {
@@ -1536,7 +1536,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/gtfs-validator-api/deployments",
     "created_at": "2021-03-23T21:56:52Z",
     "updated_at": "2023-01-28T07:46:05Z",
-    "pushed_at": "2022-04-13T18:48:51Z",
+    "pushed_at": "2023-07-20T15:34:08Z",
     "git_url": "git://github.com/cal-itp/gtfs-validator-api.git",
     "ssh_url": "git@github.com:cal-itp/gtfs-validator-api.git",
     "clone_url": "https://github.com/cal-itp/gtfs-validator-api.git",
@@ -1556,7 +1556,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -1570,7 +1570,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "watchers": 2,
     "default_branch": "main",
     "permissions": {
