@@ -738,7 +738,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/data-infra/deployments",
     "created_at": "2020-11-16T18:35:24Z",
     "updated_at": "2023-10-31T18:36:17Z",
-    "pushed_at": "2023-11-08T21:04:12Z",
+    "pushed_at": "2023-11-08T21:55:24Z",
     "git_url": "git://github.com/cal-itp/data-infra.git",
     "ssh_url": "git@github.com:cal-itp/data-infra.git",
     "clone_url": "https://github.com/cal-itp/data-infra.git",
