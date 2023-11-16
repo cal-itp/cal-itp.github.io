@@ -738,7 +738,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/data-infra/deployments",
     "created_at": "2020-11-16T18:35:24Z",
     "updated_at": "2023-10-31T18:36:17Z",
-    "pushed_at": "2023-11-16T14:37:52Z",
+    "pushed_at": "2023-11-16T14:44:25Z",
     "git_url": "git://github.com/cal-itp/data-infra.git",
     "ssh_url": "git@github.com:cal-itp/data-infra.git",
     "clone_url": "https://github.com/cal-itp/data-infra.git",
@@ -2139,7 +2139,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -2153,7 +2153,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 2,
-    "open_issues": 4,
+    "open_issues": 5,
     "watchers": 18,
     "default_branch": "main",
     "permissions": {
