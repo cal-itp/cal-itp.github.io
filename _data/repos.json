@@ -418,7 +418,7 @@
     "has_wiki": false,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 2,
+    "forks_count": 3,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -444,7 +444,7 @@
       "transit"
     ],
     "visibility": "public",
-    "forks": 2,
+    "forks": 3,
     "open_issues": 3,
     "watchers": 2,
     "default_branch": "main",
