@@ -2125,7 +2125,7 @@
     "clone_url": "https://github.com/cal-itp/operational-data-standard.git",
     "svn_url": "https://github.com/cal-itp/operational-data-standard",
     "homepage": "https://ods.calitp.org",
-    "size": 1398,
+    "size": 1404,
     "stargazers_count": 19,
     "watchers_count": 19,
     "language": "Dockerfile",
