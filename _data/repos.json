@@ -744,7 +744,7 @@
     "clone_url": "https://github.com/cal-itp/data-infra.git",
     "svn_url": "https://github.com/cal-itp/data-infra",
     "homepage": "https://docs.calitp.org/data-infra",
-    "size": 101716,
+    "size": 101713,
     "stargazers_count": 30,
     "watchers_count": 30,
     "language": "Python",
