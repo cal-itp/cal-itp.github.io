@@ -1649,7 +1649,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/gtfs.calitp.org/deployments",
     "created_at": "2021-12-10T19:25:26Z",
     "updated_at": "2022-07-15T19:57:38Z",
-    "pushed_at": "2024-02-22T01:30:18Z",
+    "pushed_at": "2024-03-11T23:14:41Z",
     "git_url": "git://github.com/cal-itp/gtfs.calitp.org.git",
     "ssh_url": "git@github.com:cal-itp/gtfs.calitp.org.git",
     "clone_url": "https://github.com/cal-itp/gtfs.calitp.org.git",
@@ -1669,7 +1669,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -1685,7 +1685,7 @@
     ],
     "visibility": "public",
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "watchers": 1,
     "default_branch": "main",
     "permissions": {
