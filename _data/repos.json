@@ -194,7 +194,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 64,
+    "open_issues_count": 63,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -210,7 +210,7 @@
     ],
     "visibility": "public",
     "forks": 9,
-    "open_issues": 64,
+    "open_issues": 63,
     "watchers": 22,
     "default_branch": "dev",
     "permissions": {
@@ -1770,7 +1770,7 @@
     "clone_url": "https://github.com/cal-itp/hashfields.git",
     "svn_url": "https://github.com/cal-itp/hashfields",
     "homepage": "https://docs.calitp.org/hashfields/",
-    "size": 1642,
+    "size": 1645,
     "stargazers_count": 1,
     "watchers_count": 1,
     "language": "Python",
