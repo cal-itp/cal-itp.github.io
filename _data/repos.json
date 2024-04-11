@@ -194,7 +194,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 74,
+    "open_issues_count": 73,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -210,7 +210,7 @@
     ],
     "visibility": "public",
     "forks": 9,
-    "open_issues": 74,
+    "open_issues": 73,
     "watchers": 22,
     "default_branch": "dev",
     "permissions": {
@@ -1764,7 +1764,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/hashfields/deployments",
     "created_at": "2021-10-12T19:41:13Z",
     "updated_at": "2023-08-22T17:37:25Z",
-    "pushed_at": "2024-04-09T22:25:00Z",
+    "pushed_at": "2024-04-11T18:37:47Z",
     "git_url": "git://github.com/cal-itp/hashfields.git",
     "ssh_url": "git@github.com:cal-itp/hashfields.git",
     "clone_url": "https://github.com/cal-itp/hashfields.git",
@@ -1784,7 +1784,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -1798,7 +1798,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 2,
     "watchers": 1,
     "default_branch": "main",
     "permissions": {
