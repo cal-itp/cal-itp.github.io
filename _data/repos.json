@@ -758,7 +758,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 173,
+    "open_issues_count": 174,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -779,7 +779,7 @@
     ],
     "visibility": "public",
     "forks": 11,
-    "open_issues": 173,
+    "open_issues": 174,
     "watchers": 38,
     "default_branch": "main",
     "permissions": {
@@ -1090,7 +1090,7 @@
     "clone_url": "https://github.com/cal-itp/eligibility-server.git",
     "svn_url": "https://github.com/cal-itp/eligibility-server",
     "homepage": "https://docs.calitp.org/eligibility-server",
-    "size": 1203,
+    "size": 1205,
     "stargazers_count": 2,
     "watchers_count": 2,
     "language": "Python",
