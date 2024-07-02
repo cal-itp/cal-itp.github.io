@@ -422,7 +422,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -445,7 +445,7 @@
     ],
     "visibility": "public",
     "forks": 3,
-    "open_issues": 12,
+    "open_issues": 13,
     "watchers": 2,
     "default_branch": "main",
     "permissions": {
@@ -2125,7 +2125,7 @@
     "clone_url": "https://github.com/cal-itp/operational-data-standard.git",
     "svn_url": "https://github.com/cal-itp/operational-data-standard",
     "homepage": "https://ods.calitp.org",
-    "size": 1492,
+    "size": 1494,
     "stargazers_count": 26,
     "watchers_count": 26,
     "language": "Dockerfile",
