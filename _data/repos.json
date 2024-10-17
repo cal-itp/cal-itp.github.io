@@ -23,6 +23,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/.github",
@@ -130,6 +131,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/benefits",
@@ -180,7 +182,7 @@
     "clone_url": "https://github.com/cal-itp/benefits.git",
     "svn_url": "https://github.com/cal-itp/benefits",
     "homepage": "https://docs.calitp.org/benefits",
-    "size": 21822,
+    "size": 21924,
     "stargazers_count": 27,
     "watchers_count": 27,
     "language": "Python",
@@ -246,6 +248,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/calitp-py",
@@ -359,6 +362,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/calitp.org",
@@ -481,6 +485,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/customer-success",
@@ -588,6 +593,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/data-analyses",
@@ -695,6 +701,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/data-infra",
@@ -745,7 +752,7 @@
     "clone_url": "https://github.com/cal-itp/data-infra.git",
     "svn_url": "https://github.com/cal-itp/data-infra",
     "homepage": "https://docs.calitp.org/data-infra",
-    "size": 105232,
+    "size": 105235,
     "stargazers_count": 48,
     "watchers_count": 48,
     "language": "Python",
@@ -815,6 +822,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/data-playbook",
@@ -928,6 +936,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/eligibility-api",
@@ -1041,6 +1050,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/eligibility-server",
@@ -1154,6 +1164,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/graas",
@@ -1267,6 +1278,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/graas-hardware",
@@ -1380,6 +1392,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/gtfs-rt-validator-api",
@@ -1493,6 +1506,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/gtfs-validator-api",
@@ -1606,6 +1620,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/gtfs.calitp.org",
@@ -1721,6 +1736,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/hashfields",
@@ -1834,6 +1850,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/mkdocs-template",
@@ -1953,6 +1970,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/mobility-marketplace",
@@ -2076,6 +2094,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/operational-data-standard",
@@ -2189,6 +2208,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/paratransit-eligibility-reports",
@@ -2302,6 +2322,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/reports",
@@ -2418,6 +2439,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/survey-reporting",
@@ -2531,6 +2553,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/transitstacks",
@@ -2647,6 +2670,7 @@
       "events_url": "https://api.github.com/users/cal-itp/events{/privacy}",
       "received_events_url": "https://api.github.com/users/cal-itp/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/cal-itp/ucla-capstone-code",
