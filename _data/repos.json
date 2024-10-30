@@ -196,7 +196,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 54,
+    "open_issues_count": 57,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -213,7 +213,7 @@
     ],
     "visibility": "public",
     "forks": 9,
-    "open_issues": 54,
+    "open_issues": 57,
     "watchers": 27,
     "default_branch": "main",
     "permissions": {
@@ -644,7 +644,7 @@
     "clone_url": "https://github.com/cal-itp/data-analyses.git",
     "svn_url": "https://github.com/cal-itp/data-analyses",
     "homepage": "https://analysis.calitp.org",
-    "size": 1909694,
+    "size": 1909718,
     "stargazers_count": 27,
     "watchers_count": 27,
     "language": "Jupyter Notebook",
