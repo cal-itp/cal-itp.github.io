@@ -196,7 +196,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 57,
+    "open_issues_count": 59,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -213,7 +213,7 @@
     ],
     "visibility": "public",
     "forks": 9,
-    "open_issues": 57,
+    "open_issues": 59,
     "watchers": 27,
     "default_branch": "main",
     "permissions": {
@@ -413,7 +413,7 @@
     "clone_url": "https://github.com/cal-itp/calitp.org.git",
     "svn_url": "https://github.com/cal-itp/calitp.org",
     "homepage": "https://www.calitp.org",
-    "size": 47449,
+    "size": 47450,
     "stargazers_count": 2,
     "watchers_count": 2,
     "language": "HTML",
