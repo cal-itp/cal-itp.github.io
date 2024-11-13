@@ -752,7 +752,7 @@
     "clone_url": "https://github.com/cal-itp/data-infra.git",
     "svn_url": "https://github.com/cal-itp/data-infra",
     "homepage": "https://docs.calitp.org/data-infra",
-    "size": 103504,
+    "size": 103513,
     "stargazers_count": 48,
     "watchers_count": 48,
     "language": "Python",
@@ -1685,7 +1685,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -1701,7 +1701,7 @@
     ],
     "visibility": "public",
     "forks": 0,
-    "open_issues": 0,
+    "open_issues": 1,
     "watchers": 1,
     "default_branch": "main",
     "permissions": {
