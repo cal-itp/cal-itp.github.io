@@ -407,7 +407,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/calitp.org/deployments",
     "created_at": "2020-12-15T00:53:19Z",
     "updated_at": "2025-01-28T23:07:19Z",
-    "pushed_at": "2025-01-28T23:07:16Z",
+    "pushed_at": "2025-01-29T17:35:36Z",
     "git_url": "git://github.com/cal-itp/calitp.org.git",
     "ssh_url": "git@github.com:cal-itp/calitp.org.git",
     "clone_url": "https://github.com/cal-itp/calitp.org.git",
@@ -427,7 +427,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -450,7 +450,7 @@
     ],
     "visibility": "public",
     "forks": 3,
-    "open_issues": 12,
+    "open_issues": 13,
     "watchers": 2,
     "default_branch": "main",
     "permissions": {
