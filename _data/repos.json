@@ -536,7 +536,7 @@
     "clone_url": "https://github.com/cal-itp/customer-success.git",
     "svn_url": "https://github.com/cal-itp/customer-success",
     "homepage": "",
-    "size": 1017,
+    "size": 1020,
     "stargazers_count": 2,
     "watchers_count": 2,
     "language": "Jupyter Notebook",
@@ -766,7 +766,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 314,
+    "open_issues_count": 328,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -787,7 +787,7 @@
     ],
     "visibility": "public",
     "forks": 16,
-    "open_issues": 314,
+    "open_issues": 328,
     "watchers": 59,
     "default_branch": "main",
     "permissions": {
