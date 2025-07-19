@@ -758,7 +758,7 @@
     "clone_url": "https://github.com/cal-itp/data-infra.git",
     "svn_url": "https://github.com/cal-itp/data-infra",
     "homepage": "https://docs.calitp.org/data-infra",
-    "size": 110155,
+    "size": 110192,
     "stargazers_count": 63,
     "watchers_count": 63,
     "language": "HCL",
@@ -772,7 +772,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 346,
+    "open_issues_count": 347,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -793,7 +793,7 @@
     ],
     "visibility": "public",
     "forks": 16,
-    "open_issues": 346,
+    "open_issues": 347,
     "watchers": 63,
     "default_branch": "main",
     "permissions": {
