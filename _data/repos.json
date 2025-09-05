@@ -1110,7 +1110,7 @@
     "clone_url": "https://github.com/cal-itp/eligibility-server.git",
     "svn_url": "https://github.com/cal-itp/eligibility-server",
     "homepage": "https://docs.calitp.org/eligibility-server",
-    "size": 1363,
+    "size": 1364,
     "stargazers_count": 3,
     "watchers_count": 3,
     "language": "Python",
