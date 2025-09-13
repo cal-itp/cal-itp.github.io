@@ -554,7 +554,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 106,
+    "open_issues_count": 107,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -562,7 +562,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 1,
-    "open_issues": 106,
+    "open_issues": 107,
     "watchers": 3,
     "default_branch": "main",
     "permissions": {
