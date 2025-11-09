@@ -2636,7 +2636,7 @@
     "has_wiki": false,
     "has_pages": true,
     "has_discussions": false,
-    "forks_count": 1,
+    "forks_count": 0,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -2656,7 +2656,7 @@
       "transit-data"
     ],
     "visibility": "public",
-    "forks": 1,
+    "forks": 0,
     "open_issues": 3,
     "watchers": 0,
     "default_branch": "main",
