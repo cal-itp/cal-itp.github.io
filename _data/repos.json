@@ -778,7 +778,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 407,
+    "open_issues_count": 408,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -799,7 +799,7 @@
     ],
     "visibility": "public",
     "forks": 17,
-    "open_issues": 407,
+    "open_issues": 408,
     "watchers": 66,
     "default_branch": "main",
     "permissions": {
