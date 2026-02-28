@@ -199,7 +199,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 130,
+    "open_issues_count": 129,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -218,7 +218,7 @@
     ],
     "visibility": "public",
     "forks": 10,
-    "open_issues": 130,
+    "open_issues": 129,
     "watchers": 33,
     "default_branch": "main",
     "permissions": {
@@ -562,7 +562,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 125,
+    "open_issues_count": 124,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -572,7 +572,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 1,
-    "open_issues": 125,
+    "open_issues": 124,
     "watchers": 3,
     "default_branch": "main",
     "permissions": {
@@ -1844,7 +1844,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "license": {
       "key": "apache-2.0",
       "name": "Apache License 2.0",
@@ -1862,7 +1862,7 @@
     ],
     "visibility": "public",
     "forks": 0,
-    "open_issues": 3,
+    "open_issues": 4,
     "watchers": 1,
     "default_branch": "main",
     "permissions": {
