@@ -416,7 +416,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/calitp.org/deployments",
     "created_at": "2020-12-15T00:53:19Z",
     "updated_at": "2026-04-01T23:05:40Z",
-    "pushed_at": "2026-04-16T16:08:15Z",
+    "pushed_at": "2026-04-24T03:46:58Z",
     "git_url": "git://github.com/cal-itp/calitp.org.git",
     "ssh_url": "git@github.com:cal-itp/calitp.org.git",
     "clone_url": "https://github.com/cal-itp/calitp.org.git",
@@ -436,7 +436,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -461,7 +461,7 @@
     ],
     "visibility": "public",
     "forks": 2,
-    "open_issues": 16,
+    "open_issues": 17,
     "watchers": 2,
     "default_branch": "main",
     "permissions": {
@@ -770,7 +770,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/data-infra/deployments",
     "created_at": "2020-11-16T18:35:24Z",
     "updated_at": "2026-04-24T01:45:54Z",
-    "pushed_at": "2026-04-24T01:48:28Z",
+    "pushed_at": "2026-04-24T03:40:37Z",
     "git_url": "git://github.com/cal-itp/data-infra.git",
     "ssh_url": "git@github.com:cal-itp/data-infra.git",
     "clone_url": "https://github.com/cal-itp/data-infra.git",
@@ -790,7 +790,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 538,
+    "open_issues_count": 539,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -813,7 +813,7 @@
     ],
     "visibility": "public",
     "forks": 18,
-    "open_issues": 538,
+    "open_issues": 539,
     "watchers": 68,
     "default_branch": "main",
     "permissions": {
@@ -2203,7 +2203,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 17,
+    "open_issues_count": 18,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -2229,7 +2229,7 @@
     ],
     "visibility": "public",
     "forks": 1,
-    "open_issues": 17,
+    "open_issues": 18,
     "watchers": 5,
     "default_branch": "main",
     "permissions": {
