@@ -416,7 +416,7 @@
     "deployments_url": "https://api.github.com/repos/cal-itp/calitp.org/deployments",
     "created_at": "2020-12-15T00:53:19Z",
     "updated_at": "2026-05-11T23:11:14Z",
-    "pushed_at": "2026-05-11T23:11:11Z",
+    "pushed_at": "2026-05-12T17:17:04Z",
     "git_url": "git://github.com/cal-itp/calitp.org.git",
     "ssh_url": "git@github.com:cal-itp/calitp.org.git",
     "clone_url": "https://github.com/cal-itp/calitp.org.git",
@@ -436,7 +436,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -461,7 +461,7 @@
     ],
     "visibility": "public",
     "forks": 2,
-    "open_issues": 9,
+    "open_issues": 10,
     "watchers": 2,
     "default_branch": "main",
     "permissions": {
@@ -673,7 +673,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 119,
+    "open_issues_count": 120,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -689,7 +689,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 5,
-    "open_issues": 119,
+    "open_issues": 120,
     "watchers": 34,
     "default_branch": "main",
     "permissions": {
@@ -769,8 +769,8 @@
     "releases_url": "https://api.github.com/repos/cal-itp/data-infra/releases{/id}",
     "deployments_url": "https://api.github.com/repos/cal-itp/data-infra/deployments",
     "created_at": "2020-11-16T18:35:24Z",
-    "updated_at": "2026-05-08T22:18:23Z",
-    "pushed_at": "2026-05-12T06:52:02Z",
+    "updated_at": "2026-05-12T17:01:07Z",
+    "pushed_at": "2026-05-12T16:42:12Z",
     "git_url": "git://github.com/cal-itp/data-infra.git",
     "ssh_url": "git@github.com:cal-itp/data-infra.git",
     "clone_url": "https://github.com/cal-itp/data-infra.git",
@@ -790,7 +790,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 555,
+    "open_issues_count": 553,
     "license": {
       "key": "agpl-3.0",
       "name": "GNU Affero General Public License v3.0",
@@ -813,7 +813,7 @@
     ],
     "visibility": "public",
     "forks": 18,
-    "open_issues": 555,
+    "open_issues": 553,
     "watchers": 68,
     "default_branch": "main",
     "permissions": {
